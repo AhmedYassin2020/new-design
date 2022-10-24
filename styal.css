@@ -1,0 +1,192 @@
+nav{background-image: url(WhatsApp\ Image\ 2022-10-23\ at\ 1.50.31\ PM.jpeg) ;
+background-position: center;
+background-size: cover;
+width: 1280px;
+height: 700px;
+/* display: flex;
+justify-content: space-between; */
+
+}
+.section1{display: flex;
+justify-content: space-between;
+}
+.div50{position: absolute;
+left: 150px;
+top: 50px;}
+ .a1{padding-left: 30px;
+    color: gray;
+    text-decoration: none;
+}
+.img1{
+  
+  position: absolute;
+  left: 50px;
+  top: 30px;
+ 
+
+}
+.button1{margin-top: 50px;
+margin-right: 60px;
+border: 0;
+color: gray;
+padding: 5px;
+background-color: white;
+}
+.section2{display: flex;
+justify-content: center}
+.h11{font-size: xx-large;
+color: rgb(88, 85, 85);}
+span{color: rgb(132, 80, 143);}
+.p1{color: gray;}
+.div3{margin-top: 300px; 
+
+}
+.div4{margin-left: 300px; }
+.img11{position: absolute;
+    right: 200px;
+    top: 300px;
+    z-index: -;
+
+
+
+
+}
+.img2{position: absolute;
+top: 300px; right: 350px;
+z-index: 1;
+}
+.img3{position: absolute;
+top: 500px;
+right: 270px;
+
+}
+.img4{position: absolute;
+right: 400px;
+top: 600px;
+}
+.section3{display: flex;
+justify-content: space-around;
+margin-top:50px ;}
+.h41{ color: rgb(95, 95, 95);
+}
+.p2{color: gray; 
+
+
+}
+.img5{position: absolute;
+right:620px ;
+top: 960px;
+}
+.h42{position: absolute;
+top: 1030px;
+right: 600px;
+color: rgb(102, 100, 100);
+}
+.p3{position: absolute;
+    top: 1060px;
+    right: 480px;
+    color: gray;
+}
+.img6{position: absolute; 
+    right: 300px;
+    top: 790px;
+    z-index: -1;
+    
+}
+.section4{display: flex;
+margin-top:100px ;
+justify-content: space-around;}
+.h31{position: absolute;
+top: 1200px;
+left: 320px;
+color: white;
+}
+.h12{position: absolute;
+    top: 1230px;
+    left: 320px;
+    color: white;
+}
+.img7{position: absolute;
+    right: 350px;
+   
+}
+.h43{position: absolute;
+top: 1250px;
+right: 400px;
+color: rgb(71, 67, 67);
+
+}
+.p4{position: absolute;
+top: 1280px;
+right: 250px;
+color: gray;
+}
+.section5{margin-top: 100px;
+display: flex;
+justify-content: center;
+
+}
+.div9{padding-left: 100px;
+padding-right:100px ;
+margin-top:-100px ;}
+.div10{  color: gray;
+position: absolute;
+left: 550px;
+top:1570px ;
+}
+.fa-chevron-left{color: gray;
+
+}
+.fa-chevron-right{color: gray;}
+.section6{
+    /* margin-top: 200px; */
+background-image:url(WhatsApp_Image_2022-10-23_at_1.50.35_PM-removebg-preview.png) ;
+ width: 1370px;
+height: 500px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.div12{display: flex;
+justify-content: space-around;
+}
+.img8{position: absolute;
+right: 180px;
+top: 1720px;
+}
+.div13{position: absolute;
+left: 100px;
+top: 2000px;
+}
+.img9{position: absolute;
+left: 10px;
+}
+.h61{ position: absolute;
+left: 40px;
+top: -15px;
+color: gray;
+
+}
+.img10{position: absolute;
+    left: 120px;}
+    .h62{position: absolute;
+    left: 245px;
+    top: 1985px;
+    color: gray;
+    }
+    .div14{position: absolute;
+    left: 100px;
+    top: 2050px;
+    
+    }
+    .img12{padding-left: 10px;}
+    .div16{width: 300px;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 2090px;
+    left: 100px;
+    text-decoration:none;
+    color: white;
+    }
+    .aaa1{text-decoration:none;
+        color: white;}
